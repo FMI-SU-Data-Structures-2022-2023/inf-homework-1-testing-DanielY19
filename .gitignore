@@ -1,0 +1,12 @@
+.vs/
+out/
+build/
+*.exe
+*.ghc
+*.o
+cmake-build-debug/
+.idea/
+Debug/
+x64/
+CmakeFiles/
+.cmake/
